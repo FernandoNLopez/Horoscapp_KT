@@ -1,0 +1,1 @@
+Proyecto Inicial de Kotlin (KT) para aprender el funcionamiento del lenguaje y como usar el entorno de Android Studio.
